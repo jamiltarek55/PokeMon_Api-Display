@@ -16,7 +16,7 @@ Here are some screenshots of the app's UI based on the components shown below
 
 ### Grid Component
 
-![Image](/src/assets/screenshots/grid.PNG)
+![Image](/src/assets/screenshots/page.PNG)
 ![Image](/src/assets/screenshots/gridOut.PNG)
 
 
