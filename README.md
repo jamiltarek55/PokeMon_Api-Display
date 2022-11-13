@@ -23,7 +23,7 @@ Here are some screenshots of the app's UI based on the components shown below
 ### Search Component
 ![Image](/src/assets/screenshots/search.PNG)
 ### Seach Output Grid
-![Image](/src/assets/screenshots/gridOut.PNG)
+![Image](/src/assets/screenshots/gridResult.PNG)
 
 
 ### Grid Component
