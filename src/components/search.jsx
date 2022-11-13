@@ -35,7 +35,8 @@ export default class Search extends React.Component{
             type="search"
             onChange={this.handleSearch}
             placeholder='Search your pokemon ... 😏'
-            onClick={(e) => e.target.placeholder = ""} 
+            onClick={(e) => e.target.placeholder = ""}
+            onBlur={(e) => e.target.placeholder = 'Search your pokemon ... 😏'}
             onKeyDown={this.handleClickSearch}
             autoFocus
           />
