@@ -13,11 +13,13 @@ Here are some screenshots of the app's UI based on the components shown below
 
 ### Search Component
 ![Image](/src/assets/screenshots/search.PNG)
+#### Seach Output Grid
+![Image](/src/assets/screenshots/gridOut.PNG)
+
 
 ### Grid Component
 
 ![Image](/src/assets/screenshots/page.PNG)
-![Image](/src/assets/screenshots/gridOut.PNG)
 
 
 ### Modal Component
