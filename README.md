@@ -2,7 +2,7 @@
 
 In this project a Pokedex to show the info of a pokemon, searching by its name. To get this info we use an API to bring the data from 
 ### For Search pokemon 
-[Poke_API](https://pokeapi.co/api/v2/pokemon/${textSearch})
+[Poke_API](https://api.pokemontcg.io/v2/cards?page=1&pageSize=100)
 
 ### For showing pokemons as 50 above grid
 [Poke_API](https://pokeapi.co/api/v2/pokemon?limit=${limit}&offset=${offset})
