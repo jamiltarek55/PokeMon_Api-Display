@@ -27,11 +27,28 @@ Bulbasaur               |  Ivysaur  |  Venusaur
 
 ## To See Live Preview
 
-You can see it deployed [Click here](https://steady-phoenix-1045ff.netlify.app/) 👈
+[Click here](https://steady-phoenix-1045ff.netlify.app/) 👈
 
 ## Do you want to use or run this project locally?
 
 Just follow this steps:
+Download the zip file from the github link
+then extract the zip file on your system 
+go the project direct as `PokeMon_Api-Display`
+<li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
+  
+  `npm install`<br/>
+    or <br/>
+  `yarn`
+  <li>and that's it! you can run it with the following command and view the application.</li>
+
+  `npm start`
+   or <br/>
+  `yarn start`
+  
+  <br/>
+  Or
+ <br/> 
 
 <ul>
   <li>In your system console write </li>
