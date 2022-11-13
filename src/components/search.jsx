@@ -2,7 +2,6 @@ import React from 'react';
 import SearchIcon from '../assets/icons/busqueda.svg';
 
 export default class Search extends React.Component{
-  
   constructor(props){
     super(props);
     this.state = {
