@@ -23,9 +23,9 @@ Bulbasaur               |  Ivysaur  |  Venusaur
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Image](/src/assets/screenshots/card-bulbasaur.PNG?raw=true) | ![Image](/src/assets/screenshots/card-ivysaur.PNG?raw=true) | ![Image](/src/assets/screenshots/card-venasaur.PNG?raw=true)
 
-## Demo
+## To See Live Preview
 
-You can see it deployed [here](https://onnichan.github.io/pokeapi-react/) 👈
+You can see it deployed [Click here](https://steady-phoenix-1045ff.netlify.app/) 👈
 
 ## Do you want to use or run this project locally?
 
@@ -48,7 +48,6 @@ Just follow this steps:
 </ul>
 
 
-## Contact
-You can follow me on my [Linkedin](https://www.linkedin.com/in/walter-daniel-huaynapata-aguilar-391041197/).
+
 
 
