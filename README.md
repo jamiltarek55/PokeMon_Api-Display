@@ -35,7 +35,7 @@ Just follow this steps:
   <li>In your system console write </li>
   
   `git init`<br/>
-  `git clone https://github.com/Onnichan/pokeapi-react.git`
+  `git clone https://github.com/jamiltarek55/PokeMon_Api-Display`
 
   <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
   
