@@ -10,7 +10,7 @@ In this project a Pokedex to show the info of a pokemon, searching by its name. 
 
 ## Technologies
 
-To build this app I used [React 18](https://reactjs.org/) ,React-Script, and PokeMn Api
+To build this app I used [React 18](https://reactjs.org/) ,React-Script, and PokeMon Api
 
 ## Screenshots
 
