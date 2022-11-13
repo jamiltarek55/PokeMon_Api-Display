@@ -1,4 +1,4 @@
-# POKEAPI ![PokeMon](https://cdn.emojidex.com/emoji/px32/Pokebola.png "Pokebola")
+# POKEMON_API ![PokeMon](https://cdn.emojidex.com/emoji/px32/Pokebola.png "Pokebola")
 
 In this project a Pokedex to show the info of a pokemon, searching by its name. To get this info we use an API to bring the data from 
 ### For Search pokemon 
