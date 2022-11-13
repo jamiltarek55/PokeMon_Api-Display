@@ -147,18 +147,6 @@ body{
   transform: rotateZ(8deg);
 }
 
-/* .card::before{
-  content: '';
-  position: absolute;
-  width: 150px;
-  height: 150px;
-  top: 60%;
-  right: -90px;
-  background-color: white;
-  box-shadow: 1px 1px 10px white;
-  border-radius: 50%;
-} */
-
 .card:hover{
   cursor: pointer;
 }
