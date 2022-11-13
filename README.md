@@ -43,10 +43,14 @@ Just follow this steps:
   
   `npm install`<br/>
     or <br/>
-  `yarn install`
+  `yarn`
   <li>and that's it! you can run it with the following command and view the application.</li>
 
   `npm start`
+   or <br/>
+  `yarn start`
+
+  
 </ul>
 
 
