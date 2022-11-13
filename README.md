@@ -34,7 +34,7 @@ Bulbasaur               |  Ivysaur  |  Venusaur
 
 ## To See Live Preview
 
-[Click here](https://steady-phoenix-1045ff.netlify.app/) 👈
+[Click here](https://spectacular-sundae-83cbef.netlify.app/) 👈
 
 ## Do you want to use or run this project locally?
 
