@@ -43,7 +43,7 @@ go the project direct as `PokeMon_Api-Display`
   <li>and that's it! you can run it with the following command and view the application.</li>
 
   `npm start`
-   or <br/>
+   <br/>or <br/>
   `yarn start`
   
  ### For Git Clone
