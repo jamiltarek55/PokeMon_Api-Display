@@ -37,9 +37,7 @@ const icons = {
    steel: steel, 
    water: water
 } 
-
 export function searchIcon(search){
-   
    if(search){
       search = Object.entries(icons).filter(icon => icon[0] === search);
       return search[0][1];
