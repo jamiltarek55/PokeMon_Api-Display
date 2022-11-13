@@ -21,7 +21,7 @@ Here are some screenshots of the app's UI based on the components shown below
 ### Modal Component
 Charizard               |  Blastoise  |  Venusaur
 :-------------------------:|:-------------------------:|:-------------------------:
-![Image](/src/assets/screenshots/card.PNG?raw=true) | ![Image](/src/assets/screenshots/card-blastoise.PNG?raw=true) | ![Image](/src/assets/screenshots/card-venasaur.PNG?raw=true)
+![Image](/src/assets/screenshots/card.PNG?raw=true) | ![Image](/src/assets/screenshots/card-ivysaur.PNG?raw=true) | ![Image](/src/assets/screenshots/card-venasaur.PNG?raw=true)
 
 ## Demo
 
