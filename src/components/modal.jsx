@@ -17,7 +17,7 @@ export default class Modal extends React.Component{
  
     return(
       <div className='modal'>
-        <button className='modal__close' onClick={this.handleModal}>Close X</button>
+        <button className='modal__close' onClick={this.handleModal}>❌</button>
         <div className='modal__content'>
           <div className="modal__content-features" style={{backgroundColor: `var(--bg-poke-color-dark-${pokemon.types[0].type.name})`}}>
             <div className="modal__content-featuresRight">
