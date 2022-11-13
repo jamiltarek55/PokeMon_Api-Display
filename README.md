@@ -32,7 +32,7 @@ Here are some screenshots of the app's UI based on the components shown below
 
 
 ### Modal Component
-  Bulbasaur                |   Charmeleon                 Venusaur
+  Bulbasaur                |   Charmeleon             |   Venusaur
 :-------------------------:|:------------------------:|:-------------------------:
 ![Image](/src/assets/screenshots/card-1.PNG?raw=true) | ![Image](/src/assets/screenshots/card2.PNG?raw=true) | ![Image](/src/assets/screenshots/card3.PNG?raw=true)
 
