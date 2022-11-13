@@ -2,7 +2,6 @@ import React from 'react';
 import {searchIcon} from '../utils/icons';
 
 export default class Modal extends React.Component{
-
   constructor(props){
     super(props);
     this.handleModal = this.handleModal.bind(this);
@@ -11,6 +10,7 @@ export default class Modal extends React.Component{
   handleModal(){
     this.props.onHandleModal();
   }
+  
   render(){
     const pokemon = this.props.pokemon;
     const colors = ['#FC6B6E','#2196F3','#094BE8','#2196F3','#3ED1E0','#CF9B48'];
