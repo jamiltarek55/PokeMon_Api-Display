@@ -32,9 +32,9 @@ Here are some screenshots of the app's UI based on the components shown below
 
 
 ### Modal Component
-Bulbasaur               |  Ivysaur  |  Venusaur
-:-------------------------:|:-------------------------:|:-------------------------:
-![Image](/src/assets/screenshots/card-bulbasaur.PNG?raw=true) | ![Image](/src/assets/screenshots/card-ivysaur.PNG?raw=true) | ![Image](/src/assets/screenshots/card-venasaur.PNG?raw=true)
+  Bulbasaur                |   Charmeleon                 Venusaur
+:-------------------------:|:------------------------:|:-------------------------:
+![Image](/src/assets/screenshots/card-1.PNG?raw=true) | ![Image](/src/assets/screenshots/card2.PNG?raw=true) | ![Image](/src/assets/screenshots/card3.PNG?raw=true)
 
 ## Do you want to use or run this project locally?
 
