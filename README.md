@@ -47,7 +47,7 @@ go the project direct as `PokeMon_Api-Display`
   `yarn start`
   
   <br/>
-  Or
+ ### Or For Git Clone
  <br/> 
 
 <ul>
