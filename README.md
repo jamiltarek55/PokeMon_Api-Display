@@ -2,10 +2,10 @@
 
 In this project a Pokedex to show the info of a pokemon, searching by its name. To get this info we use an API to bring the data from 
 ### For Search pokemon 
-[pokeapi](https://pokeapi.co/api/v2/pokemon/${textSearch.toLowerCase()})
+[Poke_API](https://pokeapi.co/api/v2/pokemon/${textSearch.toLowerCase()})
 
 ### For showing pokemons as 50 above grid
-[pokeapi](https://pokeapi.co/api/v2/pokemon?limit=${limit}&offset=${offset})
+[Poke_API](https://pokeapi.co/api/v2/pokemon?limit=${limit}&offset=${offset})
 
 
 ## Technologies
