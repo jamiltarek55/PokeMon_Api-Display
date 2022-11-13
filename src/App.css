@@ -346,19 +346,6 @@ body{
   margin-bottom: 5px;
   position: relative;
 }
-
-/* .modal__content-otherStatTimeLine::after{
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50px;
-  height: inherit;
-  border-radius: 5px;
-  background-color: black;
-  z-index: 10;
-} */
-
 .modal__content-otherStatTimeLineStat{
   position: absolute;
   top: 0;
@@ -384,7 +371,7 @@ body{
   position: absolute;
   top: -25px;
   right: 10px;
-  background-color: transparent;
+  background-color: black;
   border: none;
   outline: none;
   z-index: 11;
