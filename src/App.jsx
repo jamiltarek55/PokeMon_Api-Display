@@ -52,7 +52,7 @@ export default class App extends React.Component{
     })
   }
 
-  async showPokemons(limit = 50, offset = 0){
+  async showPokemons(limit = 100, offset = 0){
 
     const api = await fetch(`https://pokeapi.co/api/v2/pokemon?limit=${limit}&offset=${offset}`);
     const data = await api.json();
