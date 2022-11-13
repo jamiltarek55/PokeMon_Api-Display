@@ -22,9 +22,7 @@ export default class Card extends React.Component{
   }
 
   render(){
-    
     const {pokemon} = this.props;
- 
     return(
       <>
         <div className='card' onClick={this.handleModal} style={{ backgroundColor: `var(--bg-poke-color-light-${pokemon.types[0].type.name})`}}>
