@@ -77,7 +77,7 @@ go the project direct as `PokeMon_Api-Display`
 </ul>
 
 
-## My GitHub link
+## GitHub Link
  https://github.com/jamiltarek55/PokeMon_Api-Display
 
 
