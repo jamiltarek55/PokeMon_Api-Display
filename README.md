@@ -31,7 +31,7 @@ Bulbasaur               |  Ivysaur  |  Venusaur
 
 ## Do you want to use or run this project locally?
 
-Just follow this steps:
+### Just follow this steps:
 Download the zip file from the github link
 then extract the zip file on your system 
 go the project direct as `PokeMon_Api-Display`
@@ -71,6 +71,7 @@ go the project direct as `PokeMon_Api-Display`
 </ul>
 
 
-
+## My GitHub link
+ https://github.com/jamiltarek55/PokeMon_Api-Display
 
 
